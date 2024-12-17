@@ -1,0 +1,16 @@
+{"time":"2024-12-16T05:27:53.844062142-08:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2024-12-16T05:27:53.844111144-08:00","level":"INFO","msg":"created symlink","path":"/gpfs/projects/ailab/tnguye11/tri/cs_ope/cs_ope/experiments/wandb/run-20241216_052753-ewc82nq4/logs/debug-core.log"}
+{"time":"2024-12-16T05:27:53.996161148-08:00","level":"INFO","msg":"created new stream","id":"ewc82nq4"}
+{"time":"2024-12-16T05:27:53.99620488-08:00","level":"INFO","msg":"stream: started","id":"ewc82nq4"}
+{"time":"2024-12-16T05:27:53.996240577-08:00","level":"INFO","msg":"writer: Do: started","stream_id":"ewc82nq4"}
+{"time":"2024-12-16T05:27:53.996248903-08:00","level":"INFO","msg":"handler: started","stream_id":"ewc82nq4"}
+{"time":"2024-12-16T05:27:53.996255716-08:00","level":"INFO","msg":"sender: started","stream_id":"ewc82nq4"}
+{"time":"2024-12-16T05:27:54.146444913-08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-16T05:28:51.108509986-08:00","level":"INFO","msg":"stream: closing","id":"ewc82nq4"}
+{"time":"2024-12-16T05:28:51.108553949-08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-16T05:28:51.108990249-08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-16T05:28:51.464483395-08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-16T05:28:51.658029579-08:00","level":"INFO","msg":"handler: closed","stream_id":"ewc82nq4"}
+{"time":"2024-12-16T05:28:51.65805659-08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"ewc82nq4"}
+{"time":"2024-12-16T05:28:51.658084743-08:00","level":"INFO","msg":"sender: closed","stream_id":"ewc82nq4"}
+{"time":"2024-12-16T05:28:51.658269109-08:00","level":"INFO","msg":"stream: closed","id":"ewc82nq4"}

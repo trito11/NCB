@@ -1,0 +1,40 @@
+wandb: Using wandb-core as the SDK backend.  Please refer to https://wandb.me/wandb-core for more information.
+wandb: Using wandb-core as the SDK backend.  Please refer to https://wandb.me/wandb-core for more information.
+wandb: Currently logged in as: trithuy2003 (deepbk). Use `wandb login --relogin` to force relogin
+wandb: Appending key for api.wandb.ai to your netrc file: /home/tnguye11/.netrc
+wandb: Currently logged in as: trithuy2003 (deepbk). Use `wandb login --relogin` to force relogin
+wandb: Appending key for api.wandb.ai to your netrc file: /home/tnguye11/.netrc
+wandb: Tracking run with wandb version 0.19.1
+wandb: Run data is saved locally in /gpfs/projects/ailab/tnguye11/tri/cs_ope/cs_ope/experiments/wandb/run-20241216_085205-l1a5tfqg
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run divine-firebrand-63
+wandb: ⭐️ View project at https://wandb.ai/deepbk/cs_ope
+wandb: 🚀 View run at https://wandb.ai/deepbk/cs_ope/runs/l1a5tfqg
+Traceback (most recent call last):
+  File "/gpfs/projects/ailab/tnguye11/tri/cs_ope/cs_ope/experiments/experiment_learning.py", line 390, in <module>
+    main(sys.argv[1:])
+  File "/gpfs/projects/ailab/tnguye11/tri/cs_ope/cs_ope/experiments/experiment_learning.py", line 264, in main
+    X, Y, Y_matrix, train_test_split, classes, N, N_train, N_test = data_generation(data_name, sample_size,ratio)
+                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/gpfs/projects/ailab/tnguye11/tri/cs_ope/cs_ope/experiments/experiment_learning.py", line 169, in data_generation
+    Y_matrix[i, Y[i]] = 1
+                ~^^^
+IndexError: index 846 is out of bounds for axis 0 with size 846
+wandb: Tracking run with wandb version 0.19.1
+wandb: Run data is saved locally in /gpfs/projects/ailab/tnguye11/tri/cs_ope/cs_ope/experiments/wandb/run-20241216_085205-pbywcado
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run peachy-wave-64
+wandb: ⭐️ View project at https://wandb.ai/deepbk/cs_ope
+wandb: 🚀 View run at https://wandb.ai/deepbk/cs_ope/runs/pbywcado
+Traceback (most recent call last):
+  File "/gpfs/projects/ailab/tnguye11/tri/cs_ope/cs_ope/experiments/experiment_learning.py", line 390, in <module>
+    main(sys.argv[1:])
+  File "/gpfs/projects/ailab/tnguye11/tri/cs_ope/cs_ope/experiments/experiment_learning.py", line 264, in main
+    X, Y, Y_matrix, train_test_split, classes, N, N_train, N_test = data_generation(data_name, sample_size,ratio)
+                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/gpfs/projects/ailab/tnguye11/tri/cs_ope/cs_ope/experiments/experiment_learning.py", line 169, in data_generation
+    Y_matrix[i, Y[i]] = 1
+                ~^^^
+IndexError: index 846 is out of bounds for axis 0 with size 846
+srun: error: n0169: task 0: Exited with exit code 1
+srun: error: n0168: task 0: Exited with exit code 1

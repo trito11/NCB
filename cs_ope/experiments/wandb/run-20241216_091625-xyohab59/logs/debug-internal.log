@@ -1,0 +1,16 @@
+{"time":"2024-12-16T09:16:25.457993138-08:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2024-12-16T09:16:25.45804749-08:00","level":"INFO","msg":"created symlink","path":"/gpfs/projects/ailab/tnguye11/tri/cs_ope/cs_ope/experiments/wandb/run-20241216_091625-xyohab59/logs/debug-core.log"}
+{"time":"2024-12-16T09:16:25.564514509-08:00","level":"INFO","msg":"created new stream","id":"xyohab59"}
+{"time":"2024-12-16T09:16:25.564552211-08:00","level":"INFO","msg":"stream: started","id":"xyohab59"}
+{"time":"2024-12-16T09:16:25.564573671-08:00","level":"INFO","msg":"writer: Do: started","stream_id":"xyohab59"}
+{"time":"2024-12-16T09:16:25.564760363-08:00","level":"INFO","msg":"handler: started","stream_id":"xyohab59"}
+{"time":"2024-12-16T09:16:25.564793806-08:00","level":"INFO","msg":"sender: started","stream_id":"xyohab59"}
+{"time":"2024-12-16T09:16:25.73662552-08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-16T09:16:26.296663837-08:00","level":"INFO","msg":"stream: closing","id":"xyohab59"}
+{"time":"2024-12-16T09:16:26.296700907-08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-16T09:16:26.297220307-08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-16T09:16:26.67626133-08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-16T09:16:26.826064559-08:00","level":"INFO","msg":"handler: closed","stream_id":"xyohab59"}
+{"time":"2024-12-16T09:16:26.826094556-08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"xyohab59"}
+{"time":"2024-12-16T09:16:26.826112921-08:00","level":"INFO","msg":"sender: closed","stream_id":"xyohab59"}
+{"time":"2024-12-16T09:16:26.826207609-08:00","level":"INFO","msg":"stream: closed","id":"xyohab59"}

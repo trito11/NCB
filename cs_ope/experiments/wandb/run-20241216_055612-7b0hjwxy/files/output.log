@@ -1,0 +1,7 @@
+/home/tnguye11/anaconda3/envs/cs_ope/lib/python3.12/site-packages/sklearn/linear_model/_logistic.py:1247: FutureWarning: 'multi_class' was deprecated in version 1.5 and will be removed in 1.7. From then on, it will always use 'multinomial'. Leave it to its default value to avoid this warning.
+  warnings.warn(
+ApproxNeuraLCBV2-net has 901 parameters.
+100%|████████████████████████████████████| 560/560 [03:57<00:00,  2.36it/s]
+100%|███████████████████████████████████| 560/560 [00:00<00:00, 914.26it/s]
+/home/tnguye11/anaconda3/envs/cs_ope/lib/python3.12/multiprocessing/popen_fork.py:66: RuntimeWarning: os.fork() was called. os.fork() is incompatible with multithreaded code, and JAX is multithreaded, so this will likely lead to a deadlock.
+  self.pid = os.fork()

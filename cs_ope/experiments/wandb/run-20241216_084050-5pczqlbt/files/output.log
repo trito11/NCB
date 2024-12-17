@@ -1,0 +1,66 @@
+/home/tnguye11/anaconda3/envs/cs_ope/lib/python3.12/site-packages/sklearn/linear_model/_logistic.py:1247: FutureWarning: 'multi_class' was deprecated in version 1.5 and will be removed in 1.7. From then on, it will always use 'multinomial'. Leave it to its default value to avoid this warning.
+  warnings.warn(
+ApproxNeuraLCBV2-net has 901 parameters.
+100%|████████████████████████████████████| 560/560 [04:12<00:00,  2.22it/s]
+100%|███████████████████████████████████| 560/560 [00:00<00:00, 821.91it/s]
+start
+trial 0
+True: 0.5549193064882479
+IPW3: 0.3249999999943788
+IPW3_SN: 0.3533192577708802
+DM: 0.4168879200851382
+DML2: 0.5862721924856784
+DML2_SN: 0.5848113768121468
+NLCB 0.48333335
+vehicle.scale
+/home/tnguye11/anaconda3/envs/cs_ope/lib/python3.12/site-packages/sklearn/linear_model/_logistic.py:1247: FutureWarning: 'multi_class' was deprecated in version 1.5 and will be removed in 1.7. From then on, it will always use 'multinomial'. Leave it to its default value to avoid this warning.
+  warnings.warn(
+ApproxNeuraLCBV2-net has 901 parameters.
+100%|████████████████████████████████████| 560/560 [02:33<00:00,  3.64it/s]
+100%|██████████████████████████████████| 560/560 [00:00<00:00, 1250.90it/s]
+start
+trial 0
+True: 0.5536147065733711
+IPW3: 0.30292159706771626
+IPW3_SN: 0.347745301466523
+DM: 0.6165431235115381
+DML2: 0.5938374177432024
+DML2_SN: 0.6245196812286156
+NLCB 0.5666667
+vehicle.scale
+/home/tnguye11/anaconda3/envs/cs_ope/lib/python3.12/site-packages/sklearn/linear_model/_logistic.py:1247: FutureWarning: 'multi_class' was deprecated in version 1.5 and will be removed in 1.7. From then on, it will always use 'multinomial'. Leave it to its default value to avoid this warning.
+  warnings.warn(
+ApproxNeuraLCBV2-net has 901 parameters.
+100%|████████████████████████████████████| 560/560 [02:31<00:00,  3.70it/s]
+100%|██████████████████████████████████| 560/560 [00:00<00:00, 1081.94it/s]
+start
+trial 0
+True: 0.5543880321687862
+IPW3: 0.23655700868900356
+IPW3_SN: 0.2841690747623314
+DM: 0.23158630640848793
+DML2: 0.3701097808961721
+DML2_SN: 0.5456693455351301
+NLCB 0.57500005
+vehicle.scale
+/home/tnguye11/anaconda3/envs/cs_ope/lib/python3.12/site-packages/sklearn/linear_model/_logistic.py:1247: FutureWarning: 'multi_class' was deprecated in version 1.5 and will be removed in 1.7. From then on, it will always use 'multinomial'. Leave it to its default value to avoid this warning.
+  warnings.warn(
+ApproxNeuraLCBV2-net has 901 parameters.
+100%|████████████████████████████████████| 560/560 [02:42<00:00,  3.44it/s]
+100%|██████████████████████████████████| 560/560 [00:00<00:00, 1038.47it/s]
+start
+trial 1
+True: 0.5638235055806871
+IPW3: 0.19123431779660366
+IPW3_SN: 0.35251390370809715
+DM: 0.5019689313357273
+DML2: 0.6246337720731552
+DML2_SN: 0.6235578345989408
+NLCB 0.48333335
+vehicle.scale
+/home/tnguye11/anaconda3/envs/cs_ope/lib/python3.12/site-packages/sklearn/linear_model/_logistic.py:1247: FutureWarning: 'multi_class' was deprecated in version 1.5 and will be removed in 1.7. From then on, it will always use 'multinomial'. Leave it to its default value to avoid this warning.
+  warnings.warn(
+ApproxNeuraLCBV2-net has 901 parameters.
+100%|████████████████████████████████████| 560/560 [02:40<00:00,  3.49it/s]
+100%|██████████████████████████████████| 560/560 [00:00<00:00, 1159.08it/s]
+start

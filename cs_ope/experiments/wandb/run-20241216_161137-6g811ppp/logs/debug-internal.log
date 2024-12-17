@@ -1,0 +1,8 @@
+{"time":"2024-12-16T16:11:37.119171253-08:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2024-12-16T16:11:37.119218282-08:00","level":"INFO","msg":"created symlink","path":"/gpfs/projects/ailab/tnguye11/tri/cs_ope/cs_ope/experiments/wandb/run-20241216_161137-6g811ppp/logs/debug-core.log"}
+{"time":"2024-12-16T16:11:37.226031446-08:00","level":"INFO","msg":"created new stream","id":"6g811ppp"}
+{"time":"2024-12-16T16:11:37.226076481-08:00","level":"INFO","msg":"stream: started","id":"6g811ppp"}
+{"time":"2024-12-16T16:11:37.226094836-08:00","level":"INFO","msg":"writer: Do: started","stream_id":"6g811ppp"}
+{"time":"2024-12-16T16:11:37.226655434-08:00","level":"INFO","msg":"handler: started","stream_id":"6g811ppp"}
+{"time":"2024-12-16T16:11:37.226694578-08:00","level":"INFO","msg":"sender: started","stream_id":"6g811ppp"}
+{"time":"2024-12-16T16:11:37.414477829-08:00","level":"INFO","msg":"Starting system monitor"}

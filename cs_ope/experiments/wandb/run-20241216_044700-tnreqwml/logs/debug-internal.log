@@ -1,0 +1,8 @@
+{"time":"2024-12-16T04:47:00.277193791-08:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2024-12-16T04:47:00.27724119-08:00","level":"INFO","msg":"created symlink","path":"/gpfs/projects/ailab/tnguye11/tri/cs_ope/cs_ope/experiments/wandb/run-20241216_044700-tnreqwml/logs/debug-core.log"}
+{"time":"2024-12-16T04:47:00.507833549-08:00","level":"INFO","msg":"created new stream","id":"tnreqwml"}
+{"time":"2024-12-16T04:47:00.507864768-08:00","level":"INFO","msg":"stream: started","id":"tnreqwml"}
+{"time":"2024-12-16T04:47:00.507876089-08:00","level":"INFO","msg":"writer: Do: started","stream_id":"tnreqwml"}
+{"time":"2024-12-16T04:47:00.508119668-08:00","level":"INFO","msg":"sender: started","stream_id":"tnreqwml"}
+{"time":"2024-12-16T04:47:00.508142902-08:00","level":"INFO","msg":"handler: started","stream_id":"tnreqwml"}
+{"time":"2024-12-16T04:47:00.683984291-08:00","level":"INFO","msg":"Starting system monitor"}

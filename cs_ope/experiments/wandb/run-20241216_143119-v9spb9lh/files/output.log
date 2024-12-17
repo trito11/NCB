@@ -1,0 +1,37 @@
+/home/tnguye11/anaconda3/envs/cs_ope/lib/python3.12/site-packages/sklearn/linear_model/_logistic.py:1247: FutureWarning: 'multi_class' was deprecated in version 1.5 and will be removed in 1.7. From then on, it will always use 'multinomial'. Leave it to its default value to avoid this warning.
+  warnings.warn(
+ApproxNeuraLCBV2-net has 801 parameters.
+100%|████████████████████████████████████| 120/120 [00:51<00:00,  2.34it/s]
+100%|███████████████████████████████████| 120/120 [00:00<00:00, 260.34it/s]
+start
+multiprocessing.pool.RemoteTraceback:
+"""
+Traceback (most recent call last):
+  File "/home/tnguye11/anaconda3/envs/cs_ope/lib/python3.12/multiprocessing/pool.py", line 125, in worker
+    result = (True, func(*args, **kwds))
+                    ^^^^^^^^^^^^^^^^^^^
+  File "/home/tnguye11/anaconda3/envs/cs_ope/lib/python3.12/multiprocessing/pool.py", line 48, in mapstar
+    return list(map(*args))
+           ^^^^^^^^^^^^^^^^
+  File "/gpfs/projects/ailab/tnguye11/tri/cs_ope/cs_ope/experiments/experiment_learning.py", line 246, in run_estimator_tasks
+    estimators.dml_est_parameters(folds=2, method='Ridge')
+  File "/gpfs/projects/ailab/tnguye11/tri/cs_ope/cs_ope/cs_opl.py", line 417, in dml_est_parameters
+    self.bpol_array[perm_hst_tr] = p_bhv
+    ~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+ValueError: shape mismatch: value array of shape (60,4) could not be broadcast to indexing result of shape (60,5)
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/gpfs/projects/ailab/tnguye11/tri/cs_ope/cs_ope/experiments/experiment_learning.py", line 405, in <module>
+    main(sys.argv[1:])
+  File "/gpfs/projects/ailab/tnguye11/tri/cs_ope/cs_ope/experiments/experiment_learning.py", line 346, in main
+    results = pool.map(run_estimator_tasks, tasks)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tnguye11/anaconda3/envs/cs_ope/lib/python3.12/multiprocessing/pool.py", line 367, in map
+    return self._map_async(func, iterable, mapstar, chunksize).get()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tnguye11/anaconda3/envs/cs_ope/lib/python3.12/multiprocessing/pool.py", line 774, in get
+    raise self._value
+ValueError: shape mismatch: value array of shape (60,4) could not be broadcast to indexing result of shape (60,5)

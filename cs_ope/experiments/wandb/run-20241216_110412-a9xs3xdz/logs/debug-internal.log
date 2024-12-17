@@ -1,0 +1,8 @@
+{"time":"2024-12-16T11:04:12.340768689-08:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2024-12-16T11:04:12.340812892-08:00","level":"INFO","msg":"created symlink","path":"/gpfs/projects/ailab/tnguye11/tri/cs_ope/cs_ope/experiments/wandb/run-20241216_110412-a9xs3xdz/logs/debug-core.log"}
+{"time":"2024-12-16T11:04:12.445612421-08:00","level":"INFO","msg":"created new stream","id":"a9xs3xdz"}
+{"time":"2024-12-16T11:04:12.445649801-08:00","level":"INFO","msg":"stream: started","id":"a9xs3xdz"}
+{"time":"2024-12-16T11:04:12.445697551-08:00","level":"INFO","msg":"writer: Do: started","stream_id":"a9xs3xdz"}
+{"time":"2024-12-16T11:04:12.44590464-08:00","level":"INFO","msg":"handler: started","stream_id":"a9xs3xdz"}
+{"time":"2024-12-16T11:04:12.445940597-08:00","level":"INFO","msg":"sender: started","stream_id":"a9xs3xdz"}
+{"time":"2024-12-16T11:04:12.762702275-08:00","level":"INFO","msg":"Starting system monitor"}

@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "/gpfs/projects/ailab/tnguye11/tri/cs_ope/cs_ope/experiments/experiment_learning.py", line 400, in <module>
+    main(sys.argv[1:])
+  File "/gpfs/projects/ailab/tnguye11/tri/cs_ope/cs_ope/experiments/experiment_learning.py", line 274, in main
+    X, Y, Y_matrix, train_test_split, classes, N, N_train, N_test = data_generation(data_name, sample_size,ratio)
+                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/gpfs/projects/ailab/tnguye11/tri/cs_ope/cs_ope/experiments/experiment_learning.py", line 181, in data_generation
+    prob = 1/(1+np.exp(-(X[:,0]+X[:,1]+X[:,2]+X[:,3]+X[:,4]+0.1*np.random.normal(size=len(X)))))
+                                                     ~^^^^^
+IndexError: index 4 is out of bounds for axis 1 with size 4

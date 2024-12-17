@@ -1,0 +1,16 @@
+{"time":"2024-12-16T05:12:07.758902398-08:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2024-12-16T05:12:07.758948545-08:00","level":"INFO","msg":"created symlink","path":"/gpfs/projects/ailab/tnguye11/tri/cs_ope/cs_ope/experiments/wandb/run-20241216_051207-vuea4wno/logs/debug-core.log"}
+{"time":"2024-12-16T05:12:07.91843891-08:00","level":"INFO","msg":"created new stream","id":"vuea4wno"}
+{"time":"2024-12-16T05:12:07.918481691-08:00","level":"INFO","msg":"stream: started","id":"vuea4wno"}
+{"time":"2024-12-16T05:12:07.918517868-08:00","level":"INFO","msg":"handler: started","stream_id":"vuea4wno"}
+{"time":"2024-12-16T05:12:07.918571199-08:00","level":"INFO","msg":"sender: started","stream_id":"vuea4wno"}
+{"time":"2024-12-16T05:12:07.918594903-08:00","level":"INFO","msg":"writer: Do: started","stream_id":"vuea4wno"}
+{"time":"2024-12-16T05:12:08.086938686-08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-16T05:13:06.493783919-08:00","level":"INFO","msg":"stream: closing","id":"vuea4wno"}
+{"time":"2024-12-16T05:13:06.493848431-08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-16T05:13:06.494339051-08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-16T05:13:06.858666116-08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-16T05:13:06.991542067-08:00","level":"INFO","msg":"handler: closed","stream_id":"vuea4wno"}
+{"time":"2024-12-16T05:13:06.991561153-08:00","level":"INFO","msg":"sender: closed","stream_id":"vuea4wno"}
+{"time":"2024-12-16T05:13:06.991558809-08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"vuea4wno"}
+{"time":"2024-12-16T05:13:06.992088563-08:00","level":"INFO","msg":"stream: closed","id":"vuea4wno"}

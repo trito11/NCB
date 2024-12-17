@@ -1,0 +1,16 @@
+{"time":"2024-12-16T05:55:51.92718122-08:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2024-12-16T05:55:51.927230934-08:00","level":"INFO","msg":"created symlink","path":"/gpfs/projects/ailab/tnguye11/tri/cs_ope/cs_ope/experiments/wandb/run-20241216_055551-baj6pab5/logs/debug-core.log"}
+{"time":"2024-12-16T05:55:52.033300128-08:00","level":"INFO","msg":"created new stream","id":"baj6pab5"}
+{"time":"2024-12-16T05:55:52.033335023-08:00","level":"INFO","msg":"stream: started","id":"baj6pab5"}
+{"time":"2024-12-16T05:55:52.033345563-08:00","level":"INFO","msg":"writer: Do: started","stream_id":"baj6pab5"}
+{"time":"2024-12-16T05:55:52.033375018-08:00","level":"INFO","msg":"sender: started","stream_id":"baj6pab5"}
+{"time":"2024-12-16T05:55:52.033350783-08:00","level":"INFO","msg":"handler: started","stream_id":"baj6pab5"}
+{"time":"2024-12-16T05:55:52.20109986-08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-16T05:55:54.358003013-08:00","level":"INFO","msg":"stream: closing","id":"baj6pab5"}
+{"time":"2024-12-16T05:55:54.358104033-08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-16T05:55:54.358885151-08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-16T05:55:54.82676007-08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-16T05:55:54.940284508-08:00","level":"INFO","msg":"handler: closed","stream_id":"baj6pab5"}
+{"time":"2024-12-16T05:55:54.940334792-08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"baj6pab5"}
+{"time":"2024-12-16T05:55:54.940348338-08:00","level":"INFO","msg":"sender: closed","stream_id":"baj6pab5"}
+{"time":"2024-12-16T05:55:54.940624206-08:00","level":"INFO","msg":"stream: closed","id":"baj6pab5"}

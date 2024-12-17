@@ -1,0 +1,186 @@
+/home/tnguye11/anaconda3/envs/cs_ope/lib/python3.12/site-packages/sklearn/linear_model/_logistic.py:1237: FutureWarning: 'multi_class' was deprecated in version 1.5 and will be removed in 1.7. From then on, binary problems will be fit as proper binary  logistic regression models (as if multi_class='ovr' were set). Leave it to its default value to avoid this warning.
+  warnings.warn(
+ApproxNeuraLCBV2-net has 641 parameters.
+100%|████████████████████████████████████| 560/560 [04:00<00:00,  2.33it/s]
+100%|███████████████████████████████████| 560/560 [00:00<00:00, 929.06it/s]
+start
+trial 0
+True: 0.7583606167170454
+IPW3: 0.6236571745846377
+IPW3_SN: 0.7739619263770775
+DM: 0.7935095712511894
+DML2: 0.7907629890449495
+DML2_SN: 0.7878021749827643
+NLCB 0.54583335
+mammographic_mass
+/home/tnguye11/anaconda3/envs/cs_ope/lib/python3.12/site-packages/sklearn/linear_model/_logistic.py:1237: FutureWarning: 'multi_class' was deprecated in version 1.5 and will be removed in 1.7. From then on, binary problems will be fit as proper binary  logistic regression models (as if multi_class='ovr' were set). Leave it to its default value to avoid this warning.
+  warnings.warn(
+ApproxNeuraLCBV2-net has 641 parameters.
+100%|████████████████████████████████████| 560/560 [02:32<00:00,  3.68it/s]
+100%|██████████████████████████████████| 560/560 [00:00<00:00, 1240.45it/s]
+start
+trial 0
+True: 0.7604063675829651
+IPW3: 0.7333643386265779
+IPW3_SN: 0.7737186460019129
+DM: 0.7870577579450855
+DML2: 0.79152490660398
+DML2_SN: 0.6250000003781889
+NLCB 0.76250005
+mammographic_mass
+/home/tnguye11/anaconda3/envs/cs_ope/lib/python3.12/site-packages/sklearn/linear_model/_logistic.py:1237: FutureWarning: 'multi_class' was deprecated in version 1.5 and will be removed in 1.7. From then on, binary problems will be fit as proper binary  logistic regression models (as if multi_class='ovr' were set). Leave it to its default value to avoid this warning.
+  warnings.warn(
+ApproxNeuraLCBV2-net has 641 parameters.
+100%|████████████████████████████████████| 560/560 [02:28<00:00,  3.78it/s]
+100%|██████████████████████████████████| 560/560 [00:00<00:00, 1289.61it/s]
+start
+trial 0
+True: 0.7569589859742334
+IPW3: 0.6249999999985261
+IPW3_SN: 0.7609664248357811
+DM: 0.8028694813181487
+DML2: 0.787543015267483
+DML2_SN: 0.7929321181150468
+NLCB 0.54583335
+mammographic_mass
+/home/tnguye11/anaconda3/envs/cs_ope/lib/python3.12/site-packages/sklearn/linear_model/_logistic.py:1237: FutureWarning: 'multi_class' was deprecated in version 1.5 and will be removed in 1.7. From then on, binary problems will be fit as proper binary  logistic regression models (as if multi_class='ovr' were set). Leave it to its default value to avoid this warning.
+  warnings.warn(
+ApproxNeuraLCBV2-net has 641 parameters.
+100%|████████████████████████████████████| 559/559 [02:27<00:00,  3.80it/s]
+100%|██████████████████████████████████| 559/559 [00:00<00:00, 1306.34it/s]
+start
+trial 1
+True: 0.7826246032769855
+IPW3: 0.7951813402833571
+IPW3_SN: 0.8089164617383502
+DM: 0.8045827224545752
+DML2: 0.7970977265754828
+DML2_SN: 0.7968042440998732
+NLCB 0.7053942
+mammographic_mass
+/home/tnguye11/anaconda3/envs/cs_ope/lib/python3.12/site-packages/sklearn/linear_model/_logistic.py:1237: FutureWarning: 'multi_class' was deprecated in version 1.5 and will be removed in 1.7. From then on, binary problems will be fit as proper binary  logistic regression models (as if multi_class='ovr' were set). Leave it to its default value to avoid this warning.
+  warnings.warn(
+ApproxNeuraLCBV2-net has 641 parameters.
+100%|████████████████████████████████████| 559/559 [02:26<00:00,  3.81it/s]
+100%|██████████████████████████████████| 559/559 [00:00<00:00, 1285.01it/s]
+start
+trial 1
+True: 0.7838999189524894
+IPW3: 0.7725830967296473
+IPW3_SN: 0.7815676707787907
+DM: 0.7889195939115191
+DML2: 0.7906764187774553
+DML2_SN: 0.795908898078601
+NLCB 0.7593361
+mammographic_mass
+/home/tnguye11/anaconda3/envs/cs_ope/lib/python3.12/site-packages/sklearn/linear_model/_logistic.py:1237: FutureWarning: 'multi_class' was deprecated in version 1.5 and will be removed in 1.7. From then on, binary problems will be fit as proper binary  logistic regression models (as if multi_class='ovr' were set). Leave it to its default value to avoid this warning.
+  warnings.warn(
+ApproxNeuraLCBV2-net has 641 parameters.
+100%|████████████████████████████████████| 559/559 [02:27<00:00,  3.78it/s]
+100%|██████████████████████████████████| 559/559 [00:00<00:00, 1263.75it/s]
+start
+trial 1
+True: 0.7811692418152801
+IPW3: 0.7868210432394126
+IPW3_SN: 0.7281119861337312
+DM: 0.790363121937497
+DML2: 0.7921615125706484
+DML2_SN: 0.7909599878902596
+NLCB 0.7261411
+mammographic_mass
+/home/tnguye11/anaconda3/envs/cs_ope/lib/python3.12/site-packages/sklearn/linear_model/_logistic.py:1237: FutureWarning: 'multi_class' was deprecated in version 1.5 and will be removed in 1.7. From then on, binary problems will be fit as proper binary  logistic regression models (as if multi_class='ovr' were set). Leave it to its default value to avoid this warning.
+  warnings.warn(
+ApproxNeuraLCBV2-net has 641 parameters.
+100%|████████████████████████████████████| 560/560 [02:27<00:00,  3.80it/s]
+100%|██████████████████████████████████| 560/560 [00:00<00:00, 1301.80it/s]
+start
+trial 2
+True: 0.740027985764106
+IPW3: 0.7406340018648682
+IPW3_SN: 0.7629649285090653
+DM: 0.763187305144754
+DML2: 0.7684535076070034
+DML2_SN: 0.7664489903023124
+NLCB 0.6666667
+mammographic_mass
+/home/tnguye11/anaconda3/envs/cs_ope/lib/python3.12/site-packages/sklearn/linear_model/_logistic.py:1237: FutureWarning: 'multi_class' was deprecated in version 1.5 and will be removed in 1.7. From then on, binary problems will be fit as proper binary  logistic regression models (as if multi_class='ovr' were set). Leave it to its default value to avoid this warning.
+  warnings.warn(
+ApproxNeuraLCBV2-net has 641 parameters.
+100%|████████████████████████████████████| 560/560 [02:27<00:00,  3.81it/s]
+100%|██████████████████████████████████| 560/560 [00:00<00:00, 1294.98it/s]
+start
+trial 2
+True: 0.7395045591678023
+IPW3: 0.7511341298257183
+IPW3_SN: 0.6086861577605658
+DM: 0.7511277847863223
+DML2: 0.7685586790114319
+DML2_SN: 0.7618903585443467
+NLCB 0.62083334
+mammographic_mass
+/home/tnguye11/anaconda3/envs/cs_ope/lib/python3.12/site-packages/sklearn/linear_model/_logistic.py:1237: FutureWarning: 'multi_class' was deprecated in version 1.5 and will be removed in 1.7. From then on, binary problems will be fit as proper binary  logistic regression models (as if multi_class='ovr' were set). Leave it to its default value to avoid this warning.
+  warnings.warn(
+ApproxNeuraLCBV2-net has 641 parameters.
+100%|████████████████████████████████████| 560/560 [02:26<00:00,  3.82it/s]
+100%|██████████████████████████████████| 560/560 [00:00<00:00, 1312.96it/s]
+start
+trial 2
+True: 0.7414485882656473
+IPW3: 0.7691449168002982
+IPW3_SN: 0.780684422078884
+DM: 0.76001675374048
+DML2: 0.771176963205874
+DML2_SN: 0.7867047104268537
+NLCB 0.7041667
+mammographic_mass
+/home/tnguye11/anaconda3/envs/cs_ope/lib/python3.12/site-packages/sklearn/linear_model/_logistic.py:1237: FutureWarning: 'multi_class' was deprecated in version 1.5 and will be removed in 1.7. From then on, binary problems will be fit as proper binary  logistic regression models (as if multi_class='ovr' were set). Leave it to its default value to avoid this warning.
+  warnings.warn(
+ApproxNeuraLCBV2-net has 641 parameters.
+100%|████████████████████████████████████| 560/560 [02:26<00:00,  3.81it/s]
+100%|██████████████████████████████████| 560/560 [00:00<00:00, 1326.46it/s]
+start
+trial 3
+True: 0.7653068752938481
+IPW3: 0.7448378546417173
+IPW3_SN: 0.7917506292619144
+DM: 0.7955813244870025
+DML2: 0.7962178520381002
+DML2_SN: 0.802057094829021
+NLCB 0.62500006
+mammographic_mass
+/home/tnguye11/anaconda3/envs/cs_ope/lib/python3.12/site-packages/sklearn/linear_model/_logistic.py:1237: FutureWarning: 'multi_class' was deprecated in version 1.5 and will be removed in 1.7. From then on, binary problems will be fit as proper binary  logistic regression models (as if multi_class='ovr' were set). Leave it to its default value to avoid this warning.
+  warnings.warn(
+ApproxNeuraLCBV2-net has 641 parameters.
+100%|████████████████████████████████████| 560/560 [02:26<00:00,  3.81it/s]
+100%|██████████████████████████████████| 560/560 [00:00<00:00, 1304.27it/s]
+start
+trial 3
+True: 0.7632123098983702
+IPW3: 0.7781810186299964
+IPW3_SN: 0.7731312093387904
+DM: 0.7883193708992999
+DML2: nan
+DML2_SN: 0.804315705967282
+NLCB 0.6291667
+mammographic_mass
+/home/tnguye11/anaconda3/envs/cs_ope/lib/python3.12/site-packages/sklearn/linear_model/_logistic.py:1237: FutureWarning: 'multi_class' was deprecated in version 1.5 and will be removed in 1.7. From then on, binary problems will be fit as proper binary  logistic regression models (as if multi_class='ovr' were set). Leave it to its default value to avoid this warning.
+  warnings.warn(
+ApproxNeuraLCBV2-net has 641 parameters.
+100%|████████████████████████████████████| 560/560 [02:28<00:00,  3.78it/s]
+100%|██████████████████████████████████| 560/560 [00:00<00:00, 1301.49it/s]
+start
+trial 3
+True: 0.7633217269970305
+IPW3: 0.7872395583526985
+IPW3_SN: 0.7473652626102546
+DM: 0.6941038528803783
+DML2: 0.7928862883382933
+DML2_SN: 0.5666668714622513
+NLCB 0.58750004
+mammographic_mass
+/home/tnguye11/anaconda3/envs/cs_ope/lib/python3.12/site-packages/sklearn/linear_model/_logistic.py:1237: FutureWarning: 'multi_class' was deprecated in version 1.5 and will be removed in 1.7. From then on, binary problems will be fit as proper binary  logistic regression models (as if multi_class='ovr' were set). Leave it to its default value to avoid this warning.
+  warnings.warn(
+ApproxNeuraLCBV2-net has 641 parameters.
+100%|████████████████████████████████████| 559/559 [02:26<00:00,  3.80it/s]
+100%|██████████████████████████████████| 559/559 [00:00<00:00, 1318.36it/s]
+start

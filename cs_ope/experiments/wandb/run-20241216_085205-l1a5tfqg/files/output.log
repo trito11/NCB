@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "/gpfs/projects/ailab/tnguye11/tri/cs_ope/cs_ope/experiments/experiment_learning.py", line 390, in <module>
+    main(sys.argv[1:])
+  File "/gpfs/projects/ailab/tnguye11/tri/cs_ope/cs_ope/experiments/experiment_learning.py", line 264, in main
+    X, Y, Y_matrix, train_test_split, classes, N, N_train, N_test = data_generation(data_name, sample_size,ratio)
+                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/gpfs/projects/ailab/tnguye11/tri/cs_ope/cs_ope/experiments/experiment_learning.py", line 169, in data_generation
+    Y_matrix[i, Y[i]] = 1
+                ~^^^
+IndexError: index 846 is out of bounds for axis 0 with size 846

@@ -1,0 +1,40 @@
+wandb: Using wandb-core as the SDK backend.  Please refer to https://wandb.me/wandb-core for more information.
+wandb: Using wandb-core as the SDK backend.  Please refer to https://wandb.me/wandb-core for more information.
+wandb: Currently logged in as: trithuy2003 (deepbk). Use `wandb login --relogin` to force relogin
+wandb: Appending key for api.wandb.ai to your netrc file: /home/tnguye11/.netrc
+wandb: Currently logged in as: trithuy2003 (deepbk). Use `wandb login --relogin` to force relogin
+wandb: Appending key for api.wandb.ai to your netrc file: /home/tnguye11/.netrc
+wandb: Tracking run with wandb version 0.19.1
+wandb: Run data is saved locally in /gpfs/projects/ailab/tnguye11/tri/cs_ope/cs_ope/experiments/wandb/run-20241216_090305-iansundo
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Tracking run with wandb version 0.19.1
+wandb: Run data is saved locally in /gpfs/projects/ailab/tnguye11/tri/cs_ope/cs_ope/experiments/wandb/run-20241216_090305-glxtmj7b
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run dulcet-sun-65
+wandb: ⭐️ View project at https://wandb.ai/deepbk/cs_ope
+wandb: 🚀 View run at https://wandb.ai/deepbk/cs_ope/runs/iansundo
+wandb: Syncing run jolly-valley-65
+wandb: ⭐️ View project at https://wandb.ai/deepbk/cs_ope
+wandb: 🚀 View run at https://wandb.ai/deepbk/cs_ope/runs/glxtmj7b
+Traceback (most recent call last):
+  File "/gpfs/projects/ailab/tnguye11/tri/cs_ope/cs_ope/experiments/experiment_learning.py", line 394, in <module>
+    main(sys.argv[1:])
+  File "/gpfs/projects/ailab/tnguye11/tri/cs_ope/cs_ope/experiments/experiment_learning.py", line 268, in main
+    X, Y, Y_matrix, train_test_split, classes, N, N_train, N_test = data_generation(data_name, sample_size,ratio)
+                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/gpfs/projects/ailab/tnguye11/tri/cs_ope/cs_ope/experiments/experiment_learning.py", line 175, in data_generation
+    prob = 1/(1+np.exp(-(X[:,0]+X[:,1]+X[:,2]+X[:,3]+X[:,4]+0.1*np.random.normal(size=len(X)))))
+                                                     ~^^^^^
+IndexError: index 4 is out of bounds for axis 1 with size 4
+Traceback (most recent call last):
+  File "/gpfs/projects/ailab/tnguye11/tri/cs_ope/cs_ope/experiments/experiment_learning.py", line 394, in <module>
+    main(sys.argv[1:])
+  File "/gpfs/projects/ailab/tnguye11/tri/cs_ope/cs_ope/experiments/experiment_learning.py", line 268, in main
+    X, Y, Y_matrix, train_test_split, classes, N, N_train, N_test = data_generation(data_name, sample_size,ratio)
+                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/gpfs/projects/ailab/tnguye11/tri/cs_ope/cs_ope/experiments/experiment_learning.py", line 175, in data_generation
+    prob = 1/(1+np.exp(-(X[:,0]+X[:,1]+X[:,2]+X[:,3]+X[:,4]+0.1*np.random.normal(size=len(X)))))
+                                                     ~^^^^^
+IndexError: index 4 is out of bounds for axis 1 with size 4
+srun: error: n0162: task 0: Exited with exit code 1
+srun: error: n0163: task 0: Exited with exit code 1

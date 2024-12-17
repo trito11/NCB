@@ -1,0 +1,16 @@
+/home/tnguye11/anaconda3/envs/cs_ope/lib/python3.12/site-packages/sklearn/linear_model/_logistic.py:1237: FutureWarning: 'multi_class' was deprecated in version 1.5 and will be removed in 1.7. From then on, binary problems will be fit as proper binary  logistic regression models (as if multi_class='ovr' were set). Leave it to its default value to avoid this warning.
+  warnings.warn(
+ApproxNeuraLCBV2-net has 1141 parameters.
+100%|████████████████████████████████████| 200/200 [01:21<00:00,  2.44it/s]
+100%|███████████████████████████████████| 200/200 [00:00<00:00, 461.66it/s]
+/home/tnguye11/anaconda3/envs/cs_ope/lib/python3.12/multiprocessing/popen_fork.py:66: RuntimeWarning: os.fork() was called. os.fork() is incompatible with multithreaded code, and JAX is multithreaded, so this will likely lead to a deadlock.
+  self.pid = os.fork()
+trial 0
+True: 0.8887938175526456
+IPW3: 0.6439618746348729
+IPW3_SN: 0.6466550471820613
+DM: 0.942766690021213
+DML2: 0.9405309826921157
+DML2_SN: 0.9393440236952241
+NLCB 0.9333333
+breast_cancer

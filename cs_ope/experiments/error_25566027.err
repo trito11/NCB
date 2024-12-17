@@ -1,0 +1,52 @@
+wandb: Using wandb-core as the SDK backend.  Please refer to https://wandb.me/wandb-core for more information.
+wandb: Using wandb-core as the SDK backend.  Please refer to https://wandb.me/wandb-core for more information.
+wandb: Currently logged in as: trithuy2003 (deepbk). Use `wandb login --relogin` to force relogin
+wandb: Appending key for api.wandb.ai to your netrc file: /home/tnguye11/.netrc
+wandb: Currently logged in as: trithuy2003 (deepbk). Use `wandb login --relogin` to force relogin
+wandb: Appending key for api.wandb.ai to your netrc file: /home/tnguye11/.netrc
+wandb: Tracking run with wandb version 0.19.1
+wandb: Run data is saved locally in /gpfs/projects/ailab/tnguye11/tri/cs_ope/cs_ope/experiments/wandb/run-20241216_101304-r25gnbp3
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run expert-pyramid-73
+wandb: ⭐️ View project at https://wandb.ai/deepbk/cs_ope
+wandb: 🚀 View run at https://wandb.ai/deepbk/cs_ope/runs/r25gnbp3
+wandb: Tracking run with wandb version 0.19.1
+wandb: Run data is saved locally in /gpfs/projects/ailab/tnguye11/tri/cs_ope/cs_ope/experiments/wandb/run-20241216_101304-se7qvwd8
+wandb: Run `wandb offline` to turn off syncing.
+wandb: Syncing run olive-dream-74
+wandb: ⭐️ View project at https://wandb.ai/deepbk/cs_ope
+wandb: 🚀 View run at https://wandb.ai/deepbk/cs_ope/runs/se7qvwd8
+/gpfs/projects/ailab/tnguye11/tri/cs_ope/cs_ope/experiments/experiment_learning.py:146: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  Y['new_label']=Y[name[0]].astype(str) + '_' + Y[name[1]].astype(str)
+Traceback (most recent call last):
+  File "/gpfs/projects/ailab/tnguye11/tri/cs_ope/cs_ope/experiments/experiment_learning.py", line 401, in <module>
+    main(sys.argv[1:])
+  File "/gpfs/projects/ailab/tnguye11/tri/cs_ope/cs_ope/experiments/experiment_learning.py", line 275, in main
+    X, Y, Y_matrix, train_test_split, classes, N, N_train, N_test = data_generation(data_name, sample_size,ratio)
+                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/gpfs/projects/ailab/tnguye11/tri/cs_ope/cs_ope/experiments/experiment_learning.py", line 180, in data_generation
+    Y_matrix[i, Y[i]] = 1
+    ~~~~~~~~^^^^^^^^^
+IndexError: index 15 is out of bounds for axis 1 with size 15
+/gpfs/projects/ailab/tnguye11/tri/cs_ope/cs_ope/experiments/experiment_learning.py:146: SettingWithCopyWarning: 
+A value is trying to be set on a copy of a slice from a DataFrame.
+Try using .loc[row_indexer,col_indexer] = value instead
+
+See the caveats in the documentation: https://pandas.pydata.org/pandas-docs/stable/user_guide/indexing.html#returning-a-view-versus-a-copy
+  Y['new_label']=Y[name[0]].astype(str) + '_' + Y[name[1]].astype(str)
+Traceback (most recent call last):
+  File "/gpfs/projects/ailab/tnguye11/tri/cs_ope/cs_ope/experiments/experiment_learning.py", line 401, in <module>
+    main(sys.argv[1:])
+  File "/gpfs/projects/ailab/tnguye11/tri/cs_ope/cs_ope/experiments/experiment_learning.py", line 275, in main
+    X, Y, Y_matrix, train_test_split, classes, N, N_train, N_test = data_generation(data_name, sample_size,ratio)
+                                                                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/gpfs/projects/ailab/tnguye11/tri/cs_ope/cs_ope/experiments/experiment_learning.py", line 180, in data_generation
+    Y_matrix[i, Y[i]] = 1
+    ~~~~~~~~^^^^^^^^^
+IndexError: index 15 is out of bounds for axis 1 with size 15
+srun: error: n0163: task 0: Exited with exit code 1
+srun: error: n0162: task 0: Exited with exit code 1

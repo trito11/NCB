@@ -1,0 +1,128 @@
+/home/tnguye11/anaconda3/envs/cs_ope/lib/python3.12/site-packages/sklearn/linear_model/_logistic.py:1247: FutureWarning: 'multi_class' was deprecated in version 1.5 and will be removed in 1.7. From then on, it will always use 'multinomial'. Leave it to its default value to avoid this warning.
+  warnings.warn(
+ApproxNeuraLCBV2-net has 801 parameters.
+100%|████████████████████████████████████| 120/120 [00:50<00:00,  2.37it/s]
+100%|███████████████████████████████████| 120/120 [00:00<00:00, 293.74it/s]
+start
+trial 0
+True: 0.49476679391139783
+IPW3: 0.49774922421844175
+IPW3_SN: 0.518190841277385
+DM: 0.5222014157053004
+DML2: 0.5222032606367223
+DML2_SN: 0.5222120597279533
+NLCB 0.44444445
+heart_disease
+/home/tnguye11/anaconda3/envs/cs_ope/lib/python3.12/site-packages/sklearn/linear_model/_logistic.py:1247: FutureWarning: 'multi_class' was deprecated in version 1.5 and will be removed in 1.7. From then on, it will always use 'multinomial'. Leave it to its default value to avoid this warning.
+  warnings.warn(
+ApproxNeuraLCBV2-net has 801 parameters.
+100%|████████████████████████████████████| 120/120 [00:31<00:00,  3.76it/s]
+100%|███████████████████████████████████| 120/120 [00:00<00:00, 433.07it/s]
+start
+trial 0
+True: 0.494870790680015
+IPW3: 0.5111775990443217
+IPW3_SN: 0.4917158118487528
+DM: 0.5221788737226569
+DML2: 0.5441807578833417
+DML2_SN: 0.5222043584624338
+NLCB 0.30555555
+heart_disease
+/home/tnguye11/anaconda3/envs/cs_ope/lib/python3.12/site-packages/sklearn/linear_model/_logistic.py:1247: FutureWarning: 'multi_class' was deprecated in version 1.5 and will be removed in 1.7. From then on, it will always use 'multinomial'. Leave it to its default value to avoid this warning.
+  warnings.warn(
+ApproxNeuraLCBV2-net has 801 parameters.
+100%|████████████████████████████████████| 120/120 [00:31<00:00,  3.76it/s]
+100%|███████████████████████████████████| 120/120 [00:00<00:00, 444.79it/s]
+start
+trial 0
+True: 0.4946781761439993
+IPW3: 0.5174704776807101
+IPW3_SN: 0.19998764138512454
+DM: 0.5215048353006757
+DML2: 0.5222011631728298
+DML2_SN: 0.5221992979134141
+NLCB 0.53333336
+heart_disease
+/home/tnguye11/anaconda3/envs/cs_ope/lib/python3.12/site-packages/sklearn/linear_model/_logistic.py:1247: FutureWarning: 'multi_class' was deprecated in version 1.5 and will be removed in 1.7. From then on, it will always use 'multinomial'. Leave it to its default value to avoid this warning.
+  warnings.warn(
+ApproxNeuraLCBV2-net has 801 parameters.
+100%|████████████████████████████████████| 120/120 [00:31<00:00,  3.76it/s]
+100%|███████████████████████████████████| 120/120 [00:00<00:00, 466.76it/s]
+start
+trial 1
+True: 0.5299268710341093
+IPW3: 0.5508398181046636
+IPW3_SN: 0.5331752245804591
+DM: 0.5555313907456995
+DML2: 0.5555466780805478
+DML2_SN: 0.5555458202193575
+NLCB 0.51666665
+heart_disease
+/home/tnguye11/anaconda3/envs/cs_ope/lib/python3.12/site-packages/sklearn/linear_model/_logistic.py:1247: FutureWarning: 'multi_class' was deprecated in version 1.5 and will be removed in 1.7. From then on, it will always use 'multinomial'. Leave it to its default value to avoid this warning.
+  warnings.warn(
+ApproxNeuraLCBV2-net has 801 parameters.
+100%|████████████████████████████████████| 120/120 [00:31<00:00,  3.76it/s]
+100%|███████████████████████████████████| 120/120 [00:00<00:00, 476.56it/s]
+start
+trial 1
+True: 0.5290577979092295
+IPW3: 0.5532427256328675
+IPW3_SN: 0.4898121195176469
+DM: 0.5555292785041931
+DML2: 0.5555339290139117
+DML2_SN: 0.5550285282529425
+NLCB 0.4888889
+heart_disease
+/home/tnguye11/anaconda3/envs/cs_ope/lib/python3.12/site-packages/sklearn/linear_model/_logistic.py:1247: FutureWarning: 'multi_class' was deprecated in version 1.5 and will be removed in 1.7. From then on, it will always use 'multinomial'. Leave it to its default value to avoid this warning.
+  warnings.warn(
+ApproxNeuraLCBV2-net has 801 parameters.
+100%|████████████████████████████████████| 120/120 [00:31<00:00,  3.76it/s]
+100%|███████████████████████████████████| 120/120 [00:00<00:00, 467.35it/s]
+start
+trial 1
+True: 0.5288869690648477
+IPW3: 0.46290186445452475
+IPW3_SN: 0.20014899063026084
+DM: 0.3968304817286949
+DML2: 0.5081508061551848
+DML2_SN: 0.5554294253865535
+NLCB 0.2888889
+heart_disease
+/home/tnguye11/anaconda3/envs/cs_ope/lib/python3.12/site-packages/sklearn/linear_model/_logistic.py:1247: FutureWarning: 'multi_class' was deprecated in version 1.5 and will be removed in 1.7. From then on, it will always use 'multinomial'. Leave it to its default value to avoid this warning.
+  warnings.warn(
+ApproxNeuraLCBV2-net has 801 parameters.
+100%|████████████████████████████████████| 120/120 [00:31<00:00,  3.85it/s]
+100%|███████████████████████████████████| 120/120 [00:00<00:00, 490.60it/s]
+start
+multiprocessing.pool.RemoteTraceback:
+"""
+Traceback (most recent call last):
+  File "/home/tnguye11/anaconda3/envs/cs_ope/lib/python3.12/multiprocessing/pool.py", line 125, in worker
+    result = (True, func(*args, **kwds))
+                    ^^^^^^^^^^^^^^^^^^^
+  File "/home/tnguye11/anaconda3/envs/cs_ope/lib/python3.12/multiprocessing/pool.py", line 48, in mapstar
+    return list(map(*args))
+           ^^^^^^^^^^^^^^^^
+  File "/gpfs/projects/ailab/tnguye11/tri/cs_ope/cs_ope/experiments/experiment_learning.py", line 242, in run_estimator_tasks
+    estimators.dml_est_parameters(folds=2, method='Ridge')
+  File "/gpfs/projects/ailab/tnguye11/tri/cs_ope/cs_ope/cs_opl.py", line 417, in dml_est_parameters
+    self.bpol_array[perm_hst_tr] = p_bhv
+    ~~~~~~~~~~~~~~~^^^^^^^^^^^^^
+ValueError: shape mismatch: value array of shape (60,4) could not be broadcast to indexing result of shape (60,5)
+"""
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/gpfs/projects/ailab/tnguye11/tri/cs_ope/cs_ope/experiments/experiment_learning.py", line 390, in <module>
+    with open(rf"{directory}/res_opl_dml2_{data_name}.csv", "a") as f:
+    ^^^^^^^^^^^^^^^^^^
+  File "/gpfs/projects/ailab/tnguye11/tri/cs_ope/cs_ope/experiments/experiment_learning.py", line 331, in main
+    tasks = [
+
+  File "/home/tnguye11/anaconda3/envs/cs_ope/lib/python3.12/multiprocessing/pool.py", line 367, in map
+    return self._map_async(func, iterable, mapstar, chunksize).get()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/tnguye11/anaconda3/envs/cs_ope/lib/python3.12/multiprocessing/pool.py", line 774, in get
+    raise self._value
+ValueError: shape mismatch: value array of shape (60,4) could not be broadcast to indexing result of shape (60,5)

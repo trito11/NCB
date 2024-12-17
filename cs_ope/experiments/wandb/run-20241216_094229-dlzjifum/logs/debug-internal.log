@@ -1,0 +1,16 @@
+{"time":"2024-12-16T09:42:29.040216664-08:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2024-12-16T09:42:29.040258883-08:00","level":"INFO","msg":"created symlink","path":"/gpfs/projects/ailab/tnguye11/tri/cs_ope/cs_ope/experiments/wandb/run-20241216_094229-dlzjifum/logs/debug-core.log"}
+{"time":"2024-12-16T09:42:29.145308709-08:00","level":"INFO","msg":"created new stream","id":"dlzjifum"}
+{"time":"2024-12-16T09:42:29.14534102-08:00","level":"INFO","msg":"stream: started","id":"dlzjifum"}
+{"time":"2024-12-16T09:42:29.145361649-08:00","level":"INFO","msg":"writer: Do: started","stream_id":"dlzjifum"}
+{"time":"2024-12-16T09:42:29.145396364-08:00","level":"INFO","msg":"sender: started","stream_id":"dlzjifum"}
+{"time":"2024-12-16T09:42:29.145764696-08:00","level":"INFO","msg":"handler: started","stream_id":"dlzjifum"}
+{"time":"2024-12-16T09:42:29.292053876-08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-16T09:42:30.985998609-08:00","level":"INFO","msg":"stream: closing","id":"dlzjifum"}
+{"time":"2024-12-16T09:42:30.986064894-08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-16T09:42:30.98664245-08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-16T09:42:31.35663677-08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-16T09:42:31.494967693-08:00","level":"INFO","msg":"handler: closed","stream_id":"dlzjifum"}
+{"time":"2024-12-16T09:42:31.494999633-08:00","level":"INFO","msg":"sender: closed","stream_id":"dlzjifum"}
+{"time":"2024-12-16T09:42:31.494994934-08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"dlzjifum"}
+{"time":"2024-12-16T09:42:31.495092768-08:00","level":"INFO","msg":"stream: closed","id":"dlzjifum"}

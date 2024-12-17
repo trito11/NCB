@@ -1,0 +1,16 @@
+{"time":"2024-12-16T09:03:05.286760362-08:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2024-12-16T09:03:05.286793805-08:00","level":"INFO","msg":"created symlink","path":"/gpfs/projects/ailab/tnguye11/tri/cs_ope/cs_ope/experiments/wandb/run-20241216_090305-glxtmj7b/logs/debug-core.log"}
+{"time":"2024-12-16T09:03:05.39141805-08:00","level":"INFO","msg":"created new stream","id":"glxtmj7b"}
+{"time":"2024-12-16T09:03:05.391448898-08:00","level":"INFO","msg":"stream: started","id":"glxtmj7b"}
+{"time":"2024-12-16T09:03:05.391461983-08:00","level":"INFO","msg":"writer: Do: started","stream_id":"glxtmj7b"}
+{"time":"2024-12-16T09:03:05.391494985-08:00","level":"INFO","msg":"handler: started","stream_id":"glxtmj7b"}
+{"time":"2024-12-16T09:03:05.391679473-08:00","level":"INFO","msg":"sender: started","stream_id":"glxtmj7b"}
+{"time":"2024-12-16T09:03:05.571294591-08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-16T09:03:06.68672848-08:00","level":"INFO","msg":"stream: closing","id":"glxtmj7b"}
+{"time":"2024-12-16T09:03:06.686780959-08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-16T09:03:06.687252158-08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-16T09:03:07.054170517-08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-16T09:03:07.301036769-08:00","level":"INFO","msg":"handler: closed","stream_id":"glxtmj7b"}
+{"time":"2024-12-16T09:03:07.301087064-08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"glxtmj7b"}
+{"time":"2024-12-16T09:03:07.301098194-08:00","level":"INFO","msg":"sender: closed","stream_id":"glxtmj7b"}
+{"time":"2024-12-16T09:03:07.301229282-08:00","level":"INFO","msg":"stream: closed","id":"glxtmj7b"}

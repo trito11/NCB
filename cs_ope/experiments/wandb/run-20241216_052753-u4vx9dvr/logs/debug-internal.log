@@ -1,0 +1,16 @@
+{"time":"2024-12-16T05:27:53.839454606-08:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2024-12-16T05:27:53.839501715-08:00","level":"INFO","msg":"created symlink","path":"/gpfs/projects/ailab/tnguye11/tri/cs_ope/cs_ope/experiments/wandb/run-20241216_052753-u4vx9dvr/logs/debug-core.log"}
+{"time":"2024-12-16T05:27:53.995564067-08:00","level":"INFO","msg":"created new stream","id":"u4vx9dvr"}
+{"time":"2024-12-16T05:27:53.995601588-08:00","level":"INFO","msg":"stream: started","id":"u4vx9dvr"}
+{"time":"2024-12-16T05:27:53.995624331-08:00","level":"INFO","msg":"writer: Do: started","stream_id":"u4vx9dvr"}
+{"time":"2024-12-16T05:27:53.995706997-08:00","level":"INFO","msg":"sender: started","stream_id":"u4vx9dvr"}
+{"time":"2024-12-16T05:27:53.99571902-08:00","level":"INFO","msg":"handler: started","stream_id":"u4vx9dvr"}
+{"time":"2024-12-16T05:27:54.149226673-08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-16T05:29:27.391605674-08:00","level":"INFO","msg":"stream: closing","id":"u4vx9dvr"}
+{"time":"2024-12-16T05:29:27.391731751-08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-16T05:29:27.392888914-08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-16T05:29:27.817014332-08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-16T05:29:27.935023699-08:00","level":"INFO","msg":"handler: closed","stream_id":"u4vx9dvr"}
+{"time":"2024-12-16T05:29:27.935052503-08:00","level":"INFO","msg":"sender: closed","stream_id":"u4vx9dvr"}
+{"time":"2024-12-16T05:29:27.935047163-08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"u4vx9dvr"}
+{"time":"2024-12-16T05:29:27.935302004-08:00","level":"INFO","msg":"stream: closed","id":"u4vx9dvr"}

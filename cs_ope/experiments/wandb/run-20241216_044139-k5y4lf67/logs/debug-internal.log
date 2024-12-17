@@ -1,0 +1,16 @@
+{"time":"2024-12-16T04:41:39.447060904-08:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2024-12-16T04:41:39.44711214-08:00","level":"INFO","msg":"created symlink","path":"/gpfs/projects/ailab/tnguye11/tri/cs_ope/cs_ope/experiments/wandb/run-20241216_044139-k5y4lf67/logs/debug-core.log"}
+{"time":"2024-12-16T04:41:39.553594593-08:00","level":"INFO","msg":"created new stream","id":"k5y4lf67"}
+{"time":"2024-12-16T04:41:39.553635349-08:00","level":"INFO","msg":"stream: started","id":"k5y4lf67"}
+{"time":"2024-12-16T04:41:39.55411465-08:00","level":"INFO","msg":"handler: started","stream_id":"k5y4lf67"}
+{"time":"2024-12-16T04:41:39.554144086-08:00","level":"INFO","msg":"writer: Do: started","stream_id":"k5y4lf67"}
+{"time":"2024-12-16T04:41:39.554208396-08:00","level":"INFO","msg":"sender: started","stream_id":"k5y4lf67"}
+{"time":"2024-12-16T04:41:39.846921212-08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-16T04:41:43.027120785-08:00","level":"INFO","msg":"stream: closing","id":"k5y4lf67"}
+{"time":"2024-12-16T04:41:43.027192029-08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-16T04:41:43.02781008-08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-16T04:41:43.38846532-08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-16T04:41:43.511144752-08:00","level":"INFO","msg":"handler: closed","stream_id":"k5y4lf67"}
+{"time":"2024-12-16T04:41:43.511190257-08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"k5y4lf67"}
+{"time":"2024-12-16T04:41:43.511256782-08:00","level":"INFO","msg":"sender: closed","stream_id":"k5y4lf67"}
+{"time":"2024-12-16T04:41:43.51142559-08:00","level":"INFO","msg":"stream: closed","id":"k5y4lf67"}

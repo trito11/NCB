@@ -1,0 +1,17 @@
+{"time":"2024-12-16T02:33:00.864531614-08:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2024-12-16T02:33:00.864586397-08:00","level":"INFO","msg":"created symlink","path":"/gpfs/projects/ailab/tnguye11/tri/cs_ope/cs_ope/experiments/wandb/run-20241216_023300-slyuuiai/logs/debug-core.log"}
+{"time":"2024-12-16T02:33:01.112616184-08:00","level":"INFO","msg":"created new stream","id":"slyuuiai"}
+{"time":"2024-12-16T02:33:01.112661049-08:00","level":"INFO","msg":"stream: started","id":"slyuuiai"}
+{"time":"2024-12-16T02:33:01.112683281-08:00","level":"INFO","msg":"writer: Do: started","stream_id":"slyuuiai"}
+{"time":"2024-12-16T02:33:01.112713007-08:00","level":"INFO","msg":"handler: started","stream_id":"slyuuiai"}
+{"time":"2024-12-16T02:33:01.112740969-08:00","level":"INFO","msg":"sender: started","stream_id":"slyuuiai"}
+{"time":"2024-12-16T02:33:01.538247068-08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-16T03:41:20.176561364-08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-16T03:41:20.177046058-08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-16T03:41:20.646545177-08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-16T03:41:20.762791806-08:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2024-12-16T03:41:21.776184446-08:00","level":"INFO","msg":"stream: closing","id":"slyuuiai"}
+{"time":"2024-12-16T03:41:21.776210485-08:00","level":"INFO","msg":"handler: closed","stream_id":"slyuuiai"}
+{"time":"2024-12-16T03:41:21.776222588-08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"slyuuiai"}
+{"time":"2024-12-16T03:41:21.776242456-08:00","level":"INFO","msg":"sender: closed","stream_id":"slyuuiai"}
+{"time":"2024-12-16T03:41:21.776769429-08:00","level":"INFO","msg":"stream: closed","id":"slyuuiai"}

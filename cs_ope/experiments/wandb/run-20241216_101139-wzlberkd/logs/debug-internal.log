@@ -1,0 +1,16 @@
+{"time":"2024-12-16T10:11:40.066024908-08:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2024-12-16T10:11:40.066066346-08:00","level":"INFO","msg":"created symlink","path":"/gpfs/projects/ailab/tnguye11/tri/cs_ope/cs_ope/experiments/wandb/run-20241216_101139-wzlberkd/logs/debug-core.log"}
+{"time":"2024-12-16T10:11:40.170925296-08:00","level":"INFO","msg":"created new stream","id":"wzlberkd"}
+{"time":"2024-12-16T10:11:40.170955913-08:00","level":"INFO","msg":"stream: started","id":"wzlberkd"}
+{"time":"2024-12-16T10:11:40.170965943-08:00","level":"INFO","msg":"writer: Do: started","stream_id":"wzlberkd"}
+{"time":"2024-12-16T10:11:40.170973146-08:00","level":"INFO","msg":"sender: started","stream_id":"wzlberkd"}
+{"time":"2024-12-16T10:11:40.170983215-08:00","level":"INFO","msg":"handler: started","stream_id":"wzlberkd"}
+{"time":"2024-12-16T10:11:40.339890265-08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-16T10:11:42.438147051-08:00","level":"INFO","msg":"stream: closing","id":"wzlberkd"}
+{"time":"2024-12-16T10:11:42.43817291-08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-16T10:11:42.438523843-08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-16T10:11:42.788870755-08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-16T10:11:42.917140354-08:00","level":"INFO","msg":"handler: closed","stream_id":"wzlberkd"}
+{"time":"2024-12-16T10:11:42.917162636-08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"wzlberkd"}
+{"time":"2024-12-16T10:11:42.917171523-08:00","level":"INFO","msg":"sender: closed","stream_id":"wzlberkd"}
+{"time":"2024-12-16T10:11:42.91728124-08:00","level":"INFO","msg":"stream: closed","id":"wzlberkd"}

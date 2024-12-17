@@ -1,0 +1,16 @@
+{"time":"2024-12-16T09:03:05.290530733-08:00","level":"INFO","msg":"using version","core version":"0.19.1"}
+{"time":"2024-12-16T09:03:05.290568223-08:00","level":"INFO","msg":"created symlink","path":"/gpfs/projects/ailab/tnguye11/tri/cs_ope/cs_ope/experiments/wandb/run-20241216_090305-iansundo/logs/debug-core.log"}
+{"time":"2024-12-16T09:03:05.395775188-08:00","level":"INFO","msg":"created new stream","id":"iansundo"}
+{"time":"2024-12-16T09:03:05.395804663-08:00","level":"INFO","msg":"stream: started","id":"iansundo"}
+{"time":"2024-12-16T09:03:05.395822247-08:00","level":"INFO","msg":"writer: Do: started","stream_id":"iansundo"}
+{"time":"2024-12-16T09:03:05.395856972-08:00","level":"INFO","msg":"handler: started","stream_id":"iansundo"}
+{"time":"2024-12-16T09:03:05.395830812-08:00","level":"INFO","msg":"sender: started","stream_id":"iansundo"}
+{"time":"2024-12-16T09:03:05.572468266-08:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-12-16T09:03:06.689746312-08:00","level":"INFO","msg":"stream: closing","id":"iansundo"}
+{"time":"2024-12-16T09:03:06.68980926-08:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2024-12-16T09:03:06.690203721-08:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2024-12-16T09:03:07.09701493-08:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-12-16T09:03:07.300162434-08:00","level":"INFO","msg":"handler: closed","stream_id":"iansundo"}
+{"time":"2024-12-16T09:03:07.300195656-08:00","level":"INFO","msg":"writer: Close: closed","stream_id":"iansundo"}
+{"time":"2024-12-16T09:03:07.300221295-08:00","level":"INFO","msg":"sender: closed","stream_id":"iansundo"}
+{"time":"2024-12-16T09:03:07.30028816-08:00","level":"INFO","msg":"stream: closed","id":"iansundo"}
